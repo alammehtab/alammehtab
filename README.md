@@ -1,0 +1,1 @@
+I possess around a year of professional experience in the field of Software Engineering. Skilled in full stack development, mainly focused on MERN and React Native development. I am always seeking opportunities to learn new technological innovations, adapt to rapid changes, and be open to facing new challenges every day.
