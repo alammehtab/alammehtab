@@ -5,9 +5,9 @@ I possess around 2 years of professional experience in the field of Software Eng
 
 ## 📞 Let's Connect
 
-- LinkedIn https://www.linkedin.com/in/mehtabalam1/
-- Twitter https://twitter.com/mehtaba728
 - YouTube https://youtube.com/@cswithalam-lf4hm?si=g_IsPO7mwIkoO9kt
+- Twitter https://twitter.com/mehtaba728
+- LinkedIn https://www.linkedin.com/in/mehtabalam1/
 
 ## 🚀 Quick Overview
 
