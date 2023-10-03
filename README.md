@@ -10,7 +10,7 @@ I possess around 2 years of professional experience in the field of Software Eng
 - 💬 Ask me about anything tech-related, I'm here to help!
 - 📫 How to reach me: mehtaba728@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: [Fun Fact About Yourself]
+- ⚡ Fun fact: I'm a slow but successful learner.
 
 ## 🛠️ Skills
 
@@ -34,7 +34,7 @@ I possess around 2 years of professional experience in the field of Software Eng
 
 ## 📞 Let's Connect
 
--YouTube   https://youtube.com/@cswithalam-lf4hm?si=g_IsPO7mwIkoO9kt
+-YouTube https://youtube.com/@cswithalam-lf4hm?si=g_IsPO7mwIkoO9kt
 - LinkedIn https://www.linkedin.com/in/mehtabalam1/
 - Twitter https://twitter.com/mehtaba728
 
