@@ -3,6 +3,12 @@
 Hello there! I'm Mehtab Alam, a passionate developer from Pakistan. Welcome to my GitHub profile. Here you'll find a collection of my open-source projects, contributions, and more.
 I possess around 2 years of professional experience in the field of Software Engineering. I'm a full-stack web and mobile app developer and always seeking opportunities to learn new technological innovations, adapt to rapid changes, and be open to facing new challenges every day.
 
+## 📞 Let's Connect
+
+- LinkedIn https://www.linkedin.com/in/mehtabalam1/
+- Twitter https://twitter.com/mehtaba728
+- YouTube https://youtube.com/@cswithalam-lf4hm?si=g_IsPO7mwIkoO9kt
+
 ## 🚀 Quick Overview
 
 - 🔭 I’m currently working on 
@@ -30,13 +36,8 @@ I possess around 2 years of professional experience in the field of Software Eng
 
 ## 📈 Coding Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alammehtab&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
-## 📞 Let's Connect
-
--YouTube https://youtube.com/@cswithalam-lf4hm?si=g_IsPO7mwIkoO9kt
-- LinkedIn https://www.linkedin.com/in/mehtabalam1/
-- Twitter https://twitter.com/mehtaba728
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
