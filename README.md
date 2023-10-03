@@ -34,11 +34,6 @@ I possess around 2 years of professional experience in the field of Software Eng
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alammehtab&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alammehtab&layout=compact&theme=radical)
 
-## 📈 Coding Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alammehtab&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
-
-
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
 Happy coding! ✨
