@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 Hello there! I'm Mehtab Alam, a passionate developer from Pakistan. Welcome to my GitHub profile. Here you'll find a collection of my open-source projects, contributions, and more.
-I possess around 2 years of professional experience in the field of Software Engineering. I'm a full-stack web and mobile app developer and always seeking opportunities to learn new technological innovations, adapt to rapid changes, and be open to facing new challenges every day.
+I possess 2+ years of professional experience in the field of Software Engineering. I'm a full-stack web and mobile app developer and always seeking opportunities to learn new technological innovations, adapt to rapid changes, and be open to facing new challenges every day.
 
 ## 📞 Let's Connect
 
