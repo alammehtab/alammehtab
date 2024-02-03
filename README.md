@@ -5,7 +5,7 @@ I possess 2+ years of professional experience in the field of Software Engineeri
 
 ## 📞 Let's Connect
 
-- YouTube https://youtube.com/@cswithalam-lf4hm?si=g_IsPO7mwIkoO9kt
+- YouTube https://www.youtube.com/@cswithalam
 - Twitter https://twitter.com/mehtaba728
 - LinkedIn https://www.linkedin.com/in/mehtabalam1/
 
