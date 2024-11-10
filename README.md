@@ -12,7 +12,7 @@ I possess around 3 years of professional experience in the field of Software Eng
 ## 🚀 Quick Overview
 
 - 🔭 I’m currently working on MERN and React Native.
-- 🌱 I’m currently learning Web3.0
+- 🌱 I’m currently learning ai and data science
 - 💬 Ask me about anything tech-related, I'm here to help!
 - 📫 How to reach me: mehtaba728@gmail.com
 - 😄 Pronouns: He
