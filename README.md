@@ -1,28 +1,28 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello there! I'm Mehtab Alam, a passionate developer from Pakistan. Welcome to my GitHub profile. Here you'll find a collection of my open-source projects, contributions, and more.
-I possess around 3 years of professional experience in the field of Software Engineering. I'm a full-stack web and mobile app developer and always seeking opportunities to learn new technological innovations, adapt to rapid changes, and be open to facing new challenges every day.
+Hello there! I'm Mehtab Alam, a passionate geek from Pakistan. Welcome to my GitHub profile. Here you'll find a collection of my open-source projects, contributions, and more.
+I possess around 5 years of professional experience in the field of Computer Science. I'm an AI Generalist and always seeking opportunities to learn new technological innovations, adapt to rapid changes, and be open to facing new challenges every day.
 
 ## 📞 Let's Connect
 
-- YouTube https://www.youtube.com/@cswithalam
+- YouTube https://www.youtube.com/@alkoders
 - Twitter https://twitter.com/mehtaba728
 - LinkedIn https://www.linkedin.com/in/mehtabalam1/
 
 ## 🚀 Quick Overview
 
-- 🔭 I’m currently working on MERN and React Native.
-- 🌱 I’m currently learning ai and data science
-- 💬 Ask me about anything tech-related, I'm here to help!
+- 🔭 I’m currently working on Artificial Intelligence.
+- 🌱 I’m creating AI-related content on my youtube channel and other social platforms 
+- 💬 Ask me about anything AI-related, I'm here to help!
 - 📫 How to reach me: mehtaba728@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Instead of counting sheep to fall asleep, I count lines of code in my head. It's surprisingly effective!
 
 ## 🛠️ Skills
 
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** React, Node.js, Express.js
-- **Databases:** MongoDB, MySQL
+- **Languages:** Python, JavaScript, TypeScript
+- **Frameworks:** Numpy, Pandas, Matplotlib, TensorFlow, PyTorch, Keras,  Node.js, Express.js
+- **Databases:** Supabase, MongoDB, MySQL, SQLite
 - **Tools:** Git, VS Code, Docker
 
 ## 🌟 Featured Projects
