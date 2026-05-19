@@ -11,7 +11,7 @@ Currently pursuing an **MS in AI & Data Science**, I am passionate about buildin
 
 ## 📞 Let's Connect
 
-* YouTube: https://www.youtube.com/@alkoders
+* YouTube: https://www.youtube.com/@alamacademypk
 * Twitter/X: https://twitter.com/mehtaba728
 * LinkedIn: https://www.linkedin.com/in/mehtabalam1/
 
