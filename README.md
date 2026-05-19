@@ -87,14 +87,6 @@ Discover 500+ workouts guided by professional coaches, personalized fitness plan
 
 ---
 
-## 📊 GitHub Stats & Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alammehtab\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alammehtab\&layout=compact\&theme=radical)
-
----
-
 ## 🤝 Open for Collaboration
 
 I’m always interested in collaborating on:
